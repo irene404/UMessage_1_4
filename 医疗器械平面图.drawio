@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T11:48:19.726Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="g80jfDIHngMhufpGldqB" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T11:48:36.351Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FgZzY8LytLshZelIC8Vr" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Z-B9GPo6lg7uLuRhSohc">
     <mxGraphModel dx="1149" dy="691" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,6 +165,9 @@
         </mxCell>
         <mxCell id="AbtzzDSf9mE-Rb6gtzmR-29" value="退货区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="289" y="752" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AbtzzDSf9mE-Rb6gtzmR-30" value="合格区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="198" y="690" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
