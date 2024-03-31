@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T11:57:38.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="H2pyDt5xp51LdOkr61yw" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T12:00:57.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DiZk_Uj_wfMjz-2_1RCZ" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Z-B9GPo6lg7uLuRhSohc">
     <mxGraphModel dx="1149" dy="691" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,8 +67,8 @@
         <mxCell id="AbtzzDSf9mE-Rb6gtzmR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="610" width="393" height="474" as="geometry" />
         </mxCell>
-        <mxCell id="AbtzzDSf9mE-Rb6gtzmR-3" value="经营区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="66" y="921" width="60" height="30" as="geometry" />
+        <mxCell id="AbtzzDSf9mE-Rb6gtzmR-3" value="经营区&lt;div&gt;（27.44m²）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="42" y="921" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AbtzzDSf9mE-Rb6gtzmR-4" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="165" y="610" width="20" height="189" as="geometry" />
@@ -181,8 +181,8 @@
         <mxCell id="AbtzzDSf9mE-Rb6gtzmR-38" value="5.6m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="339" y="1098" width="45" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="AbtzzDSf9mE-Rb6gtzmR-39" value="仓库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="64" y="683" width="60" height="30" as="geometry" />
+        <mxCell id="AbtzzDSf9mE-Rb6gtzmR-39" value="仓库&lt;div&gt;（9.75m²）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="43" y="683" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AbtzzDSf9mE-Rb6gtzmR-40" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
