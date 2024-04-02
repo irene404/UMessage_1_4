@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T13:36:50.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="17QSbnkorbcihVdsxeRw" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T13:37:55.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="A6RDZh3C68fLvdzGPtJD" version="24.2.1" type="github">
   <diagram name="第 1 页" id="Z-B9GPo6lg7uLuRhSohc">
     <mxGraphModel dx="954" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
         <mxCell id="Akqk1PsO7k6nNeHA24I_-6" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="716" y="66" width="254" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Akqk1PsO7k6nNeHA24I_-7" value="2.5m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="Akqk1PsO7k6nNeHA24I_-7" value="3.2m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="824" y="60" width="45" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Akqk1PsO7k6nNeHA24I_-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Akqk1PsO7k6nNeHA24I_-1">
@@ -241,8 +241,8 @@
         <mxCell id="Akqk1PsO7k6nNeHA24I_-12" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="66" width="86" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Akqk1PsO7k6nNeHA24I_-13" value="1.5m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="994" y="61" width="45" height="26" as="geometry" />
+        <mxCell id="Akqk1PsO7k6nNeHA24I_-13" value="0.8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="999" y="61" width="35" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Akqk1PsO7k6nNeHA24I_-14" value="展示柜" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="716" y="152" width="60" height="260" as="geometry" />
