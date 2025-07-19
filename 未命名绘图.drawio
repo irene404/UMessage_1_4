@@ -13,14 +13,20 @@
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-1" value="学习路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="230" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-4" target="OdnS9hcuA0Ocz9xrUDnw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-4" value="scratch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-9" value="竞赛--&amp;gt;获奖证书" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="100" width="100" height="30" as="geometry" />
+          <mxGeometry x="240" y="50" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-11" value="c++试课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="160" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-15" value="竞赛--&amp;gt;获奖证书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
