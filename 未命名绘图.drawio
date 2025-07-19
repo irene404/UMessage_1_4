@@ -27,47 +27,46 @@
             <mxPoint x="4" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-11">
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-11" target="OdnS9hcuA0Ocz9xrUDnw-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-39" value="学c++没有兴趣" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OdnS9hcuA0Ocz9xrUDnw-37">
-          <mxGeometry x="-0.5801" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="540" y="302.5" as="sourcePoint" />
+            <mxPoint x="400" y="407.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-11" value="c++试课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="160" width="90" height="70" as="geometry" />
+          <mxGeometry x="460" y="215" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-15" value="竞赛--&amp;gt;获奖证书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="335" width="110" height="40" as="geometry" />
+          <mxGeometry x="760" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-21" target="OdnS9hcuA0Ocz9xrUDnw-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-21" value="CCF编程能力等级认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="35" width="90" height="40" as="geometry" />
+          <mxGeometry x="620" y="90" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-22" value="七龙珠特长生招生考试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="35" width="90" height="40" as="geometry" />
+          <mxGeometry x="790" y="90" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-23" target="OdnS9hcuA0Ocz9xrUDnw-26">
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-23" target="OdnS9hcuA0Ocz9xrUDnw-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="450" as="sourcePoint" />
             <mxPoint x="410" y="615" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="755" y="355" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-38" value="学python没有兴趣" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OdnS9hcuA0Ocz9xrUDnw-36">
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-38" value="没有兴趣、学不下去" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OdnS9hcuA0Ocz9xrUDnw-36">
           <mxGeometry x="-0.2917" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-226" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-23" target="OdnS9hcuA0Ocz9xrUDnw-11">
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-23" target="OdnS9hcuA0Ocz9xrUDnw-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="425" y="140" />
-              <mxPoint x="275" y="140" />
+              <mxPoint x="755" y="195" />
+              <mxPoint x="505" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -77,13 +76,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-23" value="python" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="160" width="90" height="70" as="geometry" />
+          <mxGeometry x="710" y="215" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-26" target="OdnS9hcuA0Ocz9xrUDnw-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-26" target="OdnS9hcuA0Ocz9xrUDnw-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-49" value="继续尝试c++" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OdnS9hcuA0Ocz9xrUDnw-48">
+          <mxGeometry x="-0.7098" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-26" value="scratch" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="320" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-26" target="OdnS9hcuA0Ocz9xrUDnw-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="510" as="sourcePoint" />
+            <mxPoint x="490" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="275" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
