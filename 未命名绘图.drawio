@@ -37,7 +37,7 @@
           <mxGeometry x="460" y="215" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-15" value="竞赛--&amp;gt;获奖证书" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="900" y="450" width="110" height="40" as="geometry" />
+          <mxGeometry x="910" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-21" target="OdnS9hcuA0Ocz9xrUDnw-22">
           <mxGeometry relative="1" as="geometry" />
@@ -109,6 +109,21 @@
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-51" value="竞赛--&amp;gt;获奖证书" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="890" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-52" target="OdnS9hcuA0Ocz9xrUDnw-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-52" target="OdnS9hcuA0Ocz9xrUDnw-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-52" value="七龙珠招生" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="75" y="570" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-53" value="七龙珠特长生招生考试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-54" value="各种获奖证书 加分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
