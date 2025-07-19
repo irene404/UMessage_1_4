@@ -28,6 +28,12 @@
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-15" value="竞赛--&amp;gt;获奖证书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-21" value="等级考试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-22" value="七龙珠特长生招生考试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
