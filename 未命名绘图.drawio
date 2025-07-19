@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-32" value="能听懂、有天赋" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OdnS9hcuA0Ocz9xrUDnw-31">
           <mxGeometry x="0.0341" y="9" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-11">
@@ -60,6 +60,19 @@
         </mxCell>
         <mxCell id="OdnS9hcuA0Ocz9xrUDnw-38" value="学python没有兴趣" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OdnS9hcuA0Ocz9xrUDnw-36">
           <mxGeometry x="-0.2917" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="OdnS9hcuA0Ocz9xrUDnw-23" target="OdnS9hcuA0Ocz9xrUDnw-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="140" />
+              <mxPoint x="275" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdnS9hcuA0Ocz9xrUDnw-43" value="继续尝试c++" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OdnS9hcuA0Ocz9xrUDnw-42">
+          <mxGeometry x="-0.4105" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
